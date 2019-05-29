@@ -1,3 +1,3 @@
 # Logs
-Logs is absolutely important for IT Security.
-A little contribution to CDEF community.
+Logs itu sangat penting dalam IT Security Monitoring.
+Berikut sedikit kontribusi untuk CDEF community.
