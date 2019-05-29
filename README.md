@@ -1,3 +1,3 @@
 # Logs
 Logs is absolutely important for IT Security.
-This is little contribution from me to CDEF community.
+A little contribution to CDEF community.
