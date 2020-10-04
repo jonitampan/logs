@@ -1,0 +1,3 @@
+Mysql log Query regex 
+
+(\d+\sQuery\t)[\s\S]*?(?=\n.*?\t)
