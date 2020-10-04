@@ -1,3 +1,6 @@
 Mysql log Query regex 
+^.*Query\t([\s\S]*?(?=.*?\t))
 
-(\d+\sQuery\t)[\s\S]*?(?=\n.*?\t)
+It depends on your query code writing.
+If you used apps framework, you can match all.
+Clean and structured code. :)
